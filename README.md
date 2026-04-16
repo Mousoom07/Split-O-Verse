@@ -1,4 +1,4 @@
-# 💸 SplitWise - Smart Expense Splitter
+# 💸 Split-O-Verse - Smart Expense Splitter
 
 A modern, AI-powered web application for splitting shared expenses among friends, roommates, and teams. Built with React + Vite and featuring intelligent expense categorization and spending insights.
 
