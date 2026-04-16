@@ -2,7 +2,8 @@
 
 A modern, AI-powered web application for splitting shared expenses among friends, roommates, and teams. Built with React + Vite and featuring intelligent expense categorization and spending insights.
 
-<img width="268" height="86" alt="image" src="https://github.com/user-attachments/assets/c077c27c-8bfe-4c5a-afd4-280fdc03ecfa" />
+<img width="259" height="74" alt="image" src="https://github.com/user-attachments/assets/4e844342-6341-4bcb-b52d-91f7d7a1f6f1" />
+
 
 
 
