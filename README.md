@@ -2,7 +2,8 @@
 
 A modern, AI-powered web application for splitting shared expenses among friends, roommates, and teams. Built with React + Vite and featuring intelligent expense categorization and spending insights.
 
-![splitwise-banner](https://img.shields.io/badge/SplitWise-Smart%20Expense%20Splitter-8b5cf6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMiAxdjIyTTUgM2wxNCA5LTE0IDl6Ii8+PC9zdmc+)
+<img width="320" height="95" alt="image" src="https://github.com/user-attachments/assets/f06debb5-ef8d-40f8-ac43-09539e2d11dc" />
+
 
 ## 🚀 Live Demo
 
