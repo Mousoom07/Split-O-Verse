@@ -1,0 +1,118 @@
+.settings-section {
+  margin-bottom: var(--space-lg);
+}
+
+.settings-section-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-bottom: var(--space-sm);
+}
+
+.settings-section-desc {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  margin-bottom: var(--space-lg);
+  line-height: 1.6;
+}
+
+/* Data Summary */
+.data-summary-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: var(--space-md);
+  margin-top: var(--space-md);
+}
+
+.data-summary-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--space-lg);
+  background: var(--bg-glass);
+  border: 1px solid var(--border-glass);
+  border-radius: var(--radius-md);
+}
+
+.data-summary-value {
+  font-size: 1.5rem;
+  font-weight: 800;
+  background: var(--accent-gradient);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 4px;
+}
+
+.data-summary-label {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+/* Actions */
+.settings-actions {
+  display: flex;
+  gap: var(--space-md);
+  flex-wrap: wrap;
+}
+
+.import-btn {
+  cursor: pointer;
+}
+
+/* Danger */
+.settings-danger {
+  border-color: rgba(239, 68, 68, 0.15);
+}
+
+.confirm-clear {
+  animation: fadeIn 0.3s ease;
+}
+
+.confirm-text {
+  font-size: 0.9rem;
+  color: var(--danger);
+  margin-bottom: var(--space-md);
+}
+
+.confirm-actions {
+  display: flex;
+  gap: var(--space-sm);
+}
+
+/* About */
+.about-info {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: var(--space-md);
+}
+
+.about-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px var(--space-md);
+  background: var(--bg-glass);
+  border-radius: var(--radius-md);
+  font-size: 0.9rem;
+}
+
+.about-label {
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.about-value {
+  color: var(--text-primary);
+  font-weight: 600;
+}
+
+@media (max-width: 500px) {
+  .about-row {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2px;
+  }
+}
