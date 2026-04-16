@@ -166,12 +166,6 @@ The insight engine performs multiple analyses:
 
 ---
 
-## 📝 License
-
-This project is for educational purposes.
-
----
-
 ## 👨‍💻 Developer
 
 **Mousoom Samanta**
