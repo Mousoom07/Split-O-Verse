@@ -175,4 +175,4 @@ This project is for educational purposes.
 ## 👨‍💻 Developer
 
 **Mousoom Samanta**
-- GitHub: [@Nitindumka123](https://github.com/Mousoom07)
+- GitHub: [@Mousoom07](https://github.com/Mousoom07)
