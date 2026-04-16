@@ -29,7 +29,7 @@ export default function Sidebar() {
       <div className="mobile-header">
         <div className="mobile-logo">
           <span className="logo-icon">💸</span>
-          <span className="logo-text">SplitWise</span>
+          <span className="logo-text">Split-O-Verse</span>
         </div>
         <button
           className="mobile-toggle"
@@ -51,7 +51,7 @@ export default function Sidebar() {
           <div className="sidebar-logo">
             <span className="logo-icon">💸</span>
             <div>
-              <div className="logo-text">Split-O-Wise</div>
+              <div className="logo-text">Split-O-Verse</div>
               <div className="logo-subtitle">Smart Expense Splitter</div>
             </div>
           </div>
