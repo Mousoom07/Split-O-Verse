@@ -92,39 +92,6 @@ src/
 
 ---
 
-## 🚦 Getting Started
-
-### Prerequisites
-- Node.js >= 18.x
-- npm >= 9.x
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/Nitindumka123/smart-expense-splitter.git
-
-# Navigate to project directory
-cd smart-expense-splitter
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
-
-The app will be running at `http://localhost:5173`
-
-### Build for Production
-
-```bash
-npm run build
-```
-
-Output will be in the `dist/` directory.
-
----
 
 ## 📱 Usage Guide
 
