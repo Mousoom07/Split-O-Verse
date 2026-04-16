@@ -9,7 +9,7 @@ A modern, AI-powered web application for splitting shared expenses among friends
 
 ## 🚀 Live Demo
 
-> Deployed on Vercel / Netlify - [View Live](#)
+> Deployed on Vercel - (https://split-o-verse.vercel.app/)
 
 ---
 
